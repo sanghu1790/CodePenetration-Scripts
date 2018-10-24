@@ -1,0 +1,48 @@
+sanghu
+stat.c:1076:3: warning: implicit declaration of function '__assert_fail' is invalid in C99 [-Wimplicit-function-declaration]
+  klee_assert(kappa==0);
+  ^
+/usr/local/include/klee/klee.h:96:6: note: expanded from macro 'klee_assert'
+   : __assert_fail (#expr, __FILE__, __LINE__, __PRETTY_FUNCTION__))    \
+     ^
+1 warning generated.
+*************************************Total All Basic Blocks at least once = 2980 *********************************
+*************************************Total Visited Basic Blocks in program = 426 *********************************
+*************************************Total Missing Basic Blocks in program = 2554 *********************************
+*************************************The Block coverage of program stat.c is 14.00'%'*********************************
+sanghu
+stat.c:1000:4: warning: implicit declaration of function '__assert_fail' is invalid in C99 [-Wimplicit-function-declaration]
+   klee_assert(kappa==0); 
+   ^
+/usr/local/include/klee/klee.h:96:6: note: expanded from macro 'klee_assert'
+   : __assert_fail (#expr, __FILE__, __LINE__, __PRETTY_FUNCTION__))    \
+     ^
+1 warning generated.
+*************************************Total All Basic Blocks at least once = 2983 *********************************
+*************************************Total Visited Basic Blocks in program = 428 *********************************
+*************************************Total Missing Basic Blocks in program = 2555 *********************************
+*************************************The Block coverage of program stat.c is 14.00'%'*********************************
+sanghu
+stat.c:1000:4: warning: implicit declaration of function '__assert_fail' is invalid in C99 [-Wimplicit-function-declaration]
+   klee_assert(kappa==0); 
+   ^
+/usr/local/include/klee/klee.h:96:6: note: expanded from macro 'klee_assert'
+   : __assert_fail (#expr, __FILE__, __LINE__, __PRETTY_FUNCTION__))    \
+     ^
+1 warning generated.
+*************************************Total All Basic Blocks at least once = 2983 *********************************
+*************************************Total Visited Basic Blocks in program = 428 *********************************
+*************************************Total Missing Basic Blocks in program = 2555 *********************************
+*************************************The Block coverage of program stat.c is 14.00'%'*********************************
+sanghu
+stat.c:1000:4: warning: implicit declaration of function '__assert_fail' is invalid in C99 [-Wimplicit-function-declaration]
+   klee_assert(kappa==0); 
+   ^
+/usr/local/include/klee/klee.h:96:6: note: expanded from macro 'klee_assert'
+   : __assert_fail (#expr, __FILE__, __LINE__, __PRETTY_FUNCTION__))    \
+     ^
+1 warning generated.
+*************************************Total All Basic Blocks at least once = 2983 *********************************
+*************************************Total Visited Basic Blocks in program = 519 *********************************
+*************************************Total Missing Basic Blocks in program = 2464 *********************************
+*************************************The Block coverage of program stat.c is 17.00'%'*********************************
